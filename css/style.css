@@ -1,0 +1,22 @@
+*
+body{
+	background-color: #F08080;
+	font-family: sans-serif;
+
+}
+
+#size{
+	font-size: 10vh;
+	margin-left: 40vh;
+}
+
+#mov{
+	width: 80vh;
+	margin-left: 52vh;
+}
+
+h1{
+	border: 1vh solid black;
+	margin-right: 41vh;
+	color: darkred;
+}
